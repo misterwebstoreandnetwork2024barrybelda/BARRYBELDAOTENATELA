@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20240912T190000Z
+DTEND:20240912T200000Z
+DTSTAMP:20240909T144237Z
+ORGANIZER;CN="Akool Webinar":MAILTO:calendar-invite@lu.ma
+UID:evt-bVDAVMfN9Y8rVs5@events.lu.ma
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mister
+ webstoreandnetwork2024@gmail.com;X-NUM-GUESTS=0:mailto:misterwebstoreandnet
+ work2024@gmail.com
+SUMMARY:AKOOL x Qatar Airways: Star in Your Own Adventure!
+DESCRIPTION:Get up-to-date information at: https://lu.ma/ucxly88n\n\nExplor
+ e the groundbreaking partnership between Qatar Airways and AKOOL that allow
+ s you to become the star of the world’s first airline commercial. This webi
+ nar will take you behind the scenes of this innovative collaboration, showc
+ asing how AKOOL’s cutting-edge technology transforms traditional marketing 
+ and customer engagement in the aviation industry.\n🎁 Special Offer: 200 cr
+ edits will be awarded as a token of our appreciation!\n🔗 Join us at: https
+ ://youtube.com/live/TzklB6Tg0kU?feature=share\nWho Should Attend:\n• 💡 Bus
+ iness Owners & Entrepreneurs: Discover how AKOOL’s advanced tools can…\n\nH
+ osted by Akool Admin
+LOCATION:https://lu.ma/e/evt-bVDAVMfN9Y8rVs5
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
