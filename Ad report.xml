@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<report>
+	<report-name>Ad report</report-name>
+	<date-range>All time</date-range>
+	<table>
+		<summary-row>
+			<cell>
+				<key>Ad status</key>
+				<value>Total: Account</value>
+			</cell>
+			<cell>
+				<key>Final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Mobile final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Tracking template</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Final URL suffix</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Custom parameter</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Status</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Ad type</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Views</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>PHP</value>
+			</cell>
+			<cell>
+				<key>Avg. CPV</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Video</key>
+				<value></value>
+			</cell>
+		</summary-row>
+	</table>
+</report>
